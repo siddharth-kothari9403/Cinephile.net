@@ -14,7 +14,7 @@ A front end website, which simulates the booking of movie tickets.
 1.5) The website will run in the browser.
 
 # 2) Basic Structure
-2.1) Basic Flow \
+2.1) Basic Flow 
 
 
 1) The home page has a list of movie posters, which serve as hyperlinks to the info pages of the respective movies. 
@@ -23,7 +23,7 @@ A front end website, which simulates the booking of movie tickets.
 4) The book tickets option will take us to the ticket booking page where the ticket will be booked. It contains options such as selecting movie theaters, dates, and no of seats. At the end, a confirmation page is shown which tells the user that the ticket boking is successful. 
 5) Each of these pages has a back to home link which will take us back to the home page
 
-2.2) File Structure \
+2.2) File Structure 
  
 1) build represents the path to our final production build. This folder would actually be created after we run the npm build.
 2) We can see all the "dependencies" and "devDependencies" required by our React app in node_modules.
