@@ -36,3 +36,7 @@ A front end website, which simulates the booking of movie tickets.
 1) We faced the challenge of trying to structure the web page according to how we designed in figma as grids sometimes gave unexpected results.
 2) We also had limited understanding of bootstrap and react which we used to implement this website.
 3) We overcame these problems using Google and Youtube tutorials, and sometimes some help from seniors :)
+
+# Developed by: 
+1) Siddharth Kothari (IMT2021019) 
+2) Sankalp Kothari (IMT2021028)
