@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bc98e373.css",
+    "main.js": "./static/js/main.45b5ee10.js",
+    "static/js/787.fc1cbc8a.chunk.js": "./static/js/787.fc1cbc8a.chunk.js",
+    "static/media/kashmirfiles.jpg": "./static/media/kashmirfiles.1bdb185d5ef5b72e3293.jpg",
+    "static/media/sod.jpg": "./static/media/sod.cb2aea994613fbc41b39.jpg",
+    "static/media/kgf2.jpeg": "./static/media/kgf2.fdc5983bf2909c464ade.jpeg",
+    "static/media/beast.jpg": "./static/media/beast.a1d3adb7ebe6d91a8e78.jpg",
+    "static/media/rrr.jpg": "./static/media/rrr.e5fadba730ef3b619533.jpg",
+    "static/media/jersey.jpg": "./static/media/jersey.db252eeadaad8a129bc7.jpg",
+    "static/media/shahid.jpg": "./static/media/shahid.0e679bb6bc44dcfa03a5.jpg",
+    "static/media/shine.jpeg": "./static/media/shine.50ec844f14676893c4a2.jpeg",
+    "static/media/rt.jpg": "./static/media/rt.833201604e7a40ae02c5.jpg",
+    "static/media/doctorstrange.jpg": "./static/media/doctorstrange.d2b2d22748e3e748b7ce.jpg",
+    "static/media/sr.jpg": "./static/media/sr.5b225598b97682712560.jpg",
+    "static/media/anup.jpg": "./static/media/anup.8e433a711577e4a8311e.jpg",
+    "static/media/cards.jpg": "./static/media/cards.2624f5a369db78ba08de.jpg",
+    "static/media/vijay.jpg": "./static/media/vijay.835405726f1851fcde94.jpg",
+    "static/media/mads.jpg": "./static/media/mads.574ec4372cc2043451d6.jpg",
+    "static/media/darsh.jpg": "./static/media/darsh.372ee96b3f1be1bb1c26.jpg",
+    "static/media/eolsen.jpg": "./static/media/eolsen.5e2275a018b9b6b7bc23.jpg",
+    "static/media/jude.jpg": "./static/media/jude.145cb5e7d178301a05fa.jpg",
+    "static/media/yash.jpg": "./static/media/yash.5b36133d3d9ac6de62c8.jpg",
+    "static/media/bcumb.jpg": "./static/media/bcumb.2bda7de00319fe1184e0.jpg",
+    "static/media/mrunal.jpg": "./static/media/mrunal.86e2eb1fbe01d04cd59e.jpg",
+    "static/media/pooja.jpg": "./static/media/pooja.b4cf2e1f2d580a0a6e28.jpg",
+    "static/media/shishir.jpg": "./static/media/shishir.515e646a208e6b525ae4.jpg",
+    "static/media/eddie.jpg": "./static/media/eddie.baa8d693a3df1d03a531.jpg",
+    "static/media/kath.jpg": "./static/media/kath.2892461ffb68b90214c3.jpg",
+    "static/media/mith.jpg": "./static/media/mith.9d0cae7df66478434d5c.jpg",
+    "static/media/pankaj.jpg": "./static/media/pankaj.e4f5428447edce2892a6.jpg",
+    "static/media/ce.jpg": "./static/media/ce.f6a716ef1ce9c8ba3b04.jpg",
+    "index.html": "./index.html",
+    "main.bc98e373.css.map": "./static/css/main.bc98e373.css.map",
+    "main.45b5ee10.js.map": "./static/js/main.45b5ee10.js.map",
+    "787.fc1cbc8a.chunk.js.map": "./static/js/787.fc1cbc8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc98e373.css",
+    "static/js/main.45b5ee10.js"
+  ]
+}
